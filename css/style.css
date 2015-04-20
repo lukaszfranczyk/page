@@ -1,0 +1,25 @@
+body{
+background-color:white;		
+}
+
+div#content{
+position:absolute;
+left:50%;
+top:50%;
+margin:-75px 0 0 -77.5px;
+width:290px;
+height:150px;
+font-family:"tahoma";
+font-size:14px;
+font-weight:bold;
+}
+
+div#content span {
+float:clear;
+display:block;
+text-align:center;
+}
+
+div#content span:nth-child(2) {
+text-transform:uppercase;
+}
